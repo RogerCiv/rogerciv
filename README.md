@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roger
 =============================================================================================================================
 
-Web Developer
+Software Developer
 -------------
 
-I am a web developer recently graduated in Web Application Development (DAW). Continuously learning and improving my skills.
+I am a software developer recently graduated in Web Application Development (DAW). Continuously learning and improving my skills.
 
 * 🌍  I'm based in Granada
 * 🖥️  See my portfolio at [rogercivdev](http://rogercivdev.vercel.app )
