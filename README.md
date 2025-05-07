@@ -26,4 +26,5 @@ I am a software developer recently graduated in Web Application Development (DAW
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RogerCiv"><img src="https://github-readme-stats.vercel.app/api?username=RogerCiv&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="RogerCiv's GitHub stats" />
+<!--<a href="http://www.github.com/RogerCiv"><img src="https://github-readme-stats.vercel.app/api?username=RogerCiv&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="RogerCiv's GitHub stats" /> -->
+
